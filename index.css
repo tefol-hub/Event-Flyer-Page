@@ -75,14 +75,15 @@ a:hover {
 main {
   display: flex;
   flex-flow: row wrap;
+  justify-content: center;
   gap: 10px;
 }
 
 section {
   display: inline-block;
   margin: 5px 15px;
-  width: 45%;
-  min-width: 60vw;
+  width: 40%;
+  min-width: 30vw;
 }
 
 .list-heading {
