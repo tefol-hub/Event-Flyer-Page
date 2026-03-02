@@ -37,7 +37,8 @@ The page features a striking header image of Hans Zimmer, a highlighted date bad
 ##🔧 Setup
 To view this project locally:
 
-**Clone the repository**<img width="1366" height="736" alt="Screenshot from 2026-03-02 14-26-55" src="https://github.com/user-attachments/assets/86c9ed02-1037-47d1-b279-c962873a35c2" /><img width="1353" height="707" alt="Screenshot from 2026-03-02 14-31-49" src="https://github.com/user-attachments/assets/fa62ca89-46be-4e54-94e6-3e46e165c243" />
+**Clone the repository**<img width="1366" height="736" alt="Screenshot from 2026-03-02 14-26-55" src="https://github.com/user-attachments/assets/86c9ed02-1037-47d1-b279-c962873a35c2" /><img width="1353" height="419" alt="Screenshot from 2026-03-02 18-53-22" src="https://github.com/user-attachments/assets/40e2616b-706f-4da1-aa0f-745821789b3b" />
+
 
 :
 
